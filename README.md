@@ -1,4 +1,4 @@
-# CodeAlpha_StudentGradeTracker
+# Project_StudentGradeTracker
 
 A lightweight, cross-platform Java desktop application that allows teachers and instructors to easily input student names and grades, track real-time entries, and instantly generate analytical class summaries.
 
